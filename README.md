@@ -11,6 +11,7 @@
 ![image](https://github.com/brittanypallasco2003/correcion_prueba/assets/117743650/a5bf7c17-d7c5-4190-89c8-7d67ce497f96)
 ### 5. Creación de una réplica tipo “Continuous” en dos sentidos
 ![image](https://github.com/brittanypallasco2003/correcion_prueba/assets/117743650/b0ef1193-1849-4f4d-ab2b-078835e0d182)
+![image](https://github.com/brittanypallasco2003/correcion_prueba/assets/117743650/aba7d04b-86ca-41df-a759-a7d07913d7cf)
 ### 6. Creación de una vista en CouchDB que retorne score, name y revenue
 ![image](https://github.com/brittanypallasco2003/correcion_prueba/assets/117743650/70e7366f-f5aa-45e4-84f2-2236a6b6e0fe)
 ### 7. Exportación del json del item anterior
